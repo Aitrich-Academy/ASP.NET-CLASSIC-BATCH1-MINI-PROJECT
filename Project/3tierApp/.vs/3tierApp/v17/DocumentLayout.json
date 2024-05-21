@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\ASP.NET-CLASSIC-BATCH1-MINI-PROJECT\\Project\\3tierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3605770F-22B1-4BFE-BBDB-C61D6C773646}|DAL\\DAL.csproj|d:\\new folder\\asp.net-classic-batch1-mini-project\\project\\3tierapp\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3605770F-22B1-4BFE-BBDB-C61D6C773646}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DB7DCF-42D2-42D4-BA69-26C437B8E0CC}|BLL\\BLL.csproj|d:\\new folder\\asp.net-classic-batch1-mini-project\\project\\3tierapp\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DB7DCF-42D2-42D4-BA69-26C437B8E0CC}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\New folder\\ASP.NET-CLASSIC-BATCH1-MINI-PROJECT\\Project\\3tierApp\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\New folder\\ASP.NET-CLASSIC-BATCH1-MINI-PROJECT\\Project\\3tierApp\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:55:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\New folder\\ASP.NET-CLASSIC-BATCH1-MINI-PROJECT\\Project\\3tierApp\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\New folder\\ASP.NET-CLASSIC-BATCH1-MINI-PROJECT\\Project\\3tierApp\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:54:45.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
